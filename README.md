@@ -4,12 +4,13 @@
 
 # ATMEGA4809 Xplained Pro Getting Started With FreeRTOS™
 
-This is an example of how to get started with [FreeRTOS™](https://www.freertos.org/index.html) on the AVR architecture with ATMEGA4809 Xplained Pro. FreeRTOS™ is a real-time operative system kernel which allows the MCU to operate with different tasks simultaneously. This is accomplished with mutexes, semaphores and software timers.
+This is an example of how to get started with FreeRTOS™ on the AVR architecture with ATMEGA4809 Xplained Pro. FreeRTOS™ is a real-time operative system kernel which allows the MCU to operate with different tasks simultaneously. This is accomplished with mutexes, semaphores and software timers.
 
 ## Related Documentation
 
 - [AN3007 - Getting Started with FreeRTOS on megaAVR® 0-series](https://www.microchip.com/wwwAppNotes/AppNotes.aspx?appnote=en610121)
 - [ATmega4809 Family Product Page](https://www.microchip.com/design-centers/8-bit/avr-mcus/device-selection/atmega4809)
+- [FreeRTOS™ Homepage](https://www.freertos.org/index.html)
 
 ## Software Used
 
