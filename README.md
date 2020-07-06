@@ -1,6 +1,6 @@
 <a href="https://www.microchip.com" rel="nofollow"><img src="images/microchip.png" alt="MCHP" width="300"/></a>
 
-<img src="images/freeRTOS.png" width="300"/>
+![Freertos](images/freeRTOS.png)
 
 # ATMEGA4809 Xplained Pro Getting Started With FreeRTOS™
 
