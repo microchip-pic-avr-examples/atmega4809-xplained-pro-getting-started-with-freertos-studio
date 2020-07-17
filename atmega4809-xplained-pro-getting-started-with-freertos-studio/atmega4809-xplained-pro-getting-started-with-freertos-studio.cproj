@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>ATmega4809FreeRTOSExampleExport</AssemblyName>
-    <Name>ATmega4809FreeRTOSExample</Name>
-    <RootNamespace>ATmega4809FreeRTOSExampleExport</RootNamespace>
+    <AssemblyName>atmega4809-xplained-pro-getting-started-with-freertos-studioExport</AssemblyName>
+    <Name>atmega4809-xplained-pro-getting-started-with-freertos-studio</Name>
+    <RootNamespace>atmega4809-xplained-pro-getting-started-with-freertos-studioExport</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
