@@ -34,7 +34,7 @@ This is an example of how to get started with FreeRTOS™ on the AVR architectur
 
 1. Download the zip file or clone the example to get the source code.
 2. Connect the ATmega4809 Xplained Pro to your computer with a micro usb cable.
-3. Open `ATmega4809FreeRTOSExample.atsln` in Atmel Studio.
+3. Open `atmega4809-xplained-pro-getting-started-with-freertos-studio.atsln` in Atmel Studio.
 4. In your menu bar in Atmel Studio go to `Debug->Start Without Debugging` or press `CTRL + ALT + F5`.
 5. Open your favorite terminal application or Data visualizer and open the serial port associated with the Xplained Pro.
 
