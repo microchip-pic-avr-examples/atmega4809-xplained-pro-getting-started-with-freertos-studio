@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.atmega4809-xplained-pro-getting-started-with-freertos-studio",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "Getting Started with FreeRTOS on megaAVR® 0-series",
         "projectName": "atmega4809-xplained-pro-getting-started-with-freertos-studio",
         "shortDescription": "This is an example of how to get started with FreeRTOS™ on the AVR architecture with ATMEGA4809 Xplained Pro. FreeRTOS™ is a real-time operative system kernel which allows the MCU to operate with different tasks simultaneously. This is accomplished with mutexes, semaphores and software timers.",
@@ -14,7 +14,7 @@
         },
         "compiler": [
             {
-                "name": "AVR-GCC",
+                "name": "AVR GCC",
                 "semverRange": "^5.4.0"
             }
         ],
@@ -70,8 +70,12 @@
             "TCB"
         ],
         "keywords": [
-            "",
-            ""
+            "INT",
+            "START",
+            "Communication",
+            "OLED",
+            "MPLAB Data Visualizer",
+            "FreeRTOS"
         ],
         "additionalData": {
             "longDescription": {
